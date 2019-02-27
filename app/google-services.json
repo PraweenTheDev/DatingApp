@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "966773090731",
+    "firebase_url": "https://timbler-664fb.firebaseio.com",
+    "project_id": "timbler-664fb",
+    "storage_bucket": "timbler-664fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:966773090731:android:fee5e5226bc210f0",
+        "android_client_info": {
+          "package_name": "com.simcoder.tinder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "966773090731-rs3nsr385gi523suavhsugvaf54g2ei3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.simcoder.tinder",
+            "certificate_hash": "8702f0fe94d52764be5c3eac3e4a3ebfc20385d7"
+          }
+        },
+        {
+          "client_id": "966773090731-p73vm3ma771rafqvbpee0kvs75d9bj2e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANJ_are3SpSIZLXf1h6cVsRLEHudIuY8M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "966773090731-p73vm3ma771rafqvbpee0kvs75d9bj2e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
